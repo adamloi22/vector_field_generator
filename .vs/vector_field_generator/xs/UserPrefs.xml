@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EB43CDDD-B588-5437-CCF2-F29D8119E497}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VectorField.cs">
+    <Files>
+      <File FileName="Assets/InheritMaterial.cs" Line="14" Column="2" />
+      <File FileName="Assets/VectorField.cs" Line="79" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vector_field_generator" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="VectorField.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9a3e9c4-e1ee-4578-9a7d-70e9b5daa45a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

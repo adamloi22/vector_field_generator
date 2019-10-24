@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{98F15E42-FF5C-EDCD-877B-5EE58F9EEA31}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VectorField.cs">
+    <Files>
+      <File FileName="Assets/RotateSphere.cs" Line="11" Column="6" />
+      <File FileName="Assets/VectorField.cs" Line="22" Column="39" />
+      <File FileName="Assets/InheritMaterial.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="curl_example" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="VectorField.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0d41518f-44b9-493c-9c81-a439ee0bc10a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
